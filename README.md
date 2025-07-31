@@ -3,7 +3,7 @@
 🎓 3rd-year Software Engineering student at Belgium Campus ITversity  
 💡 Interested in AI, IoT, and Embedded Systems  
 🚀 Currently building: NLP-powered drone control  
-📫 Reach me: markusdp@email.com
+📫 Reach me: markusdup1101@email.com
 
 ## 🔧 Technologies & Tools
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
