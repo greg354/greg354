@@ -22,8 +22,6 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  
-![Markus's GitHub stats](https://github-readme-stats.vercel.app/api?username=greg354&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=greg354&layout=compact&theme=tokyonight&hide_border=true)
 
